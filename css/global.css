@@ -1,0 +1,16 @@
+body {
+  font-family: "Oswald", arial, sans-serif;
+  letter-spacing: 0.23em;
+  margin: 0px;
+  background-image:linear-gradient(#fff, #ffc0cb);
+}
+
+h1, h2, h3, p {
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
